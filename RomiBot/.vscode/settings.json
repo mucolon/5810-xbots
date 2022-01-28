@@ -14,8 +14,5 @@
     "**/.factorypath": true,
     "**/*~": true
   },
-  "cSpell.words": [
-    "Odometry",
-    "mecanum"
-  ]
+  "wpilib.skipSelectSimulateExtension": true
 }
